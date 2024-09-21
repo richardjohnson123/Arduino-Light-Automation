@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "author": "Anonymous maker",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-uno", "id": "uno", "top": 0, "left": 0, "attrs": {} },
+    {
+      "type": "wokwi-led",
+      "id": "led1",
+      "top": -109.2,
+      "left": 80.6,
+      "attrs": { "color": "red" }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "r1",
+      "top": -53.65,
+      "left": 115.2,
+      "attrs": { "value": "220" }
+    },
+    {
+      "type": "wokwi-photoresistor-sensor",
+      "id": "ldr1",
+      "top": 243.2,
+      "left": -37.6,
+      "attrs": {}
+    },
+    { "type": "wokwi-servo", "id": "servo1", "top": 55.6, "left": 336, "attrs": {} },
+    { "type": "wokwi-potentiometer", "id": "pot1", "top": -174.1, "left": 364.6, "attrs": {} }
+  ],
+  "connections": [
+    [ "led1:A", "r1:1", "green", [ "v0" ] ],
+    [ "r1:2", "uno:12", "green", [ "v28.8", "h-39.5" ] ],
+    [ "led1:C", "uno:GND.1", "green", [ "v38.4", "h19.9" ] ],
+    [ "ldr1:VCC", "uno:5V", "red", [ "h0" ] ],
+    [ "ldr1:GND", "uno:GND.2", "black", [ "h0" ] ],
+    [ "ldr1:AO", "uno:A0", "green", [ "h0" ] ],
+    [ "servo1:GND", "uno:GND.2", "black", [ "h-38.4", "v163.2", "h-128.1" ] ],
+    [ "servo1:V+", "uno:5V", "red", [ "v144.1", "h-176" ] ],
+    [ "servo1:PWM", "uno:9", "green", [ "h-48", "v-134.2", "h-125" ] ],
+    [ "pot1:GND", "uno:GND.3", "black", [ "v374.4", "h-214.6" ] ],
+    [ "pot1:SIG", "uno:A1", "violet", [ "v336", "h-186.1" ] ],
+    [ "pot1:VCC", "uno:5V", "red", [ "v364.8", "h-253.6" ] ]
+  ],
+  "dependencies": {}
+}
