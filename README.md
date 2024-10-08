@@ -4,9 +4,10 @@
  PCB NOT TESTED
 
  These resources served as the cornerstone this project:
+ ##
  [Kicad basics](https://youtu.be/szu8dJoyikA?si=gNZHXsxOV4JxI1gA)
  [Arduino shield tutorial](https://youtu.be/ou_qRzNHZrw?si=L-_wdsPanHBMj-uL)
- ![Arduino R3 documentation](https://docs.arduino.cc/hardware/uno-rev3/)
+ [Arduino R3 documentation](https://docs.arduino.cc/hardware/uno-rev3/)
  
 
 # Shield Dimensions
