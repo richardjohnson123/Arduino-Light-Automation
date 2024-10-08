@@ -3,8 +3,9 @@
 
  PCB NOT TESTED
 
+## Resources
+ These resources served as the cornerstone this project:< br / >
 
- These resources served as the cornerstone this project:
  [Kicad basics](https://youtu.be/szu8dJoyikA?si=gNZHXsxOV4JxI1gA)
  [Arduino shield tutorial](https://youtu.be/ou_qRzNHZrw?si=L-_wdsPanHBMj-uL)
  [Arduino R3 documentation](https://docs.arduino.cc/hardware/uno-rev3/)
