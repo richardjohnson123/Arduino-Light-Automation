@@ -6,9 +6,9 @@
 ## Resources
  These resources served as the cornerstone this project:<br />
 
- [Kicad basics](https://youtu.be/szu8dJoyikA?si=gNZHXsxOV4JxI1gA)<br />
- [Arduino shield tutorial](https://youtu.be/ou_qRzNHZrw?si=L-_wdsPanHBMj-uL)<br />
- [Arduino UNO R3 documentation](https://docs.arduino.cc/hardware/uno-rev3/)<br />
+ * [Kicad basics](https://youtu.be/szu8dJoyikA?si=gNZHXsxOV4JxI1gA)<br />
+ * [Arduino shield tutorial](https://youtu.be/ou_qRzNHZrw?si=L-_wdsPanHBMj-uL)<br />
+ * [Arduino UNO R3 documentation](https://docs.arduino.cc/hardware/uno-rev3/)<br />
  
 
 ## Shield Dimensions
