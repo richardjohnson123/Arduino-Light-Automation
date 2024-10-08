@@ -8,11 +8,11 @@
 
  [Kicad basics](https://youtu.be/szu8dJoyikA?si=gNZHXsxOV4JxI1gA)<br />
  [Arduino shield tutorial](https://youtu.be/ou_qRzNHZrw?si=L-_wdsPanHBMj-uL)<br />
- [Arduino R3 documentation](https://docs.arduino.cc/hardware/uno-rev3/)<br />
+ [Arduino UNO R3 documentation](https://docs.arduino.cc/hardware/uno-rev3/)<br />
  
 
 ## Shield Dimensions
- The dimensions for the shield were verified using the datasheet for Arduino UNO R3: https://docs.arduino.cc/hardware/uno-rev3/.
+ The dimensions for the shield were verified using the Arduino UNO R3 datasheet:
  
  ![image](https://github.com/user-attachments/assets/98c50eeb-5e1b-46cc-9a67-6fe9e538a89b)
 
