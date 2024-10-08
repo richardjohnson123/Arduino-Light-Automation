@@ -3,6 +3,11 @@
 
  PCB NOT TESTED
 
+ These resources served as the cornerstone this project:
+ ![URL](https://youtu.be/szu8dJoyikA?si=gNZHXsxOV4JxI1gA)
+ ![URL](https://youtu.be/ou_qRzNHZrw?si=L-_wdsPanHBMj-uL)
+ ![URL](https://docs.arduino.cc/hardware/uno-rev3/)
+
 # Shield Dimensions
  The dimensions for the shield were verified using the datasheet for Arduino UNO R3: https://docs.arduino.cc/hardware/uno-rev3/.
  
